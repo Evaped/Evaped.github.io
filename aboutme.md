@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Min side
+permalink: /aboutme/
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mit navn er Eva, og jeg kommer oprindeligt fra Holsted. Jeg har boet flere steder i trekantsområdet og er nu bosat i Horsens. I min fritid slapper jeg af med at skrive og udforske min passion som amatørforfatter.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Denne hjemmeside har jeg oprettet for at dokumentere min proces på fjerde semester af datamatikeruddannelsen. Her har jeg, i samarbejde med min studiegruppe, arbejdet på et projekt for virksomheden Norlys. Projektet fokuserer på at udvikle et program, der kan vurdere sikkerheden af URL-adresser.
 
-What else do you need?
+Nederst på siden finder du links til min LinkedIn-profil, GitHub og min e-mail, hvis du ønsker at komme i kontakt med mig.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.

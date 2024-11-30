@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projektkordination
+title: Projektkoordinering
 permalink: /project-coordination/
 ---
 

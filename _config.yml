@@ -25,8 +25,8 @@ navbar-links:
   Læringsplan: "learningplan"
   Litteraturliste: "resources"
   Dokumentation:
-    Projektkoordinering: ""
-    NIS2: ""
+    - Projektkoordinering: "dprojectcoordination"
+    - NIS2: "dnis2"
 
 social-network-links:
   email: "empe54079@edu.ucl.dk"
