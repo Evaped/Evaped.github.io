@@ -5,6 +5,11 @@ author: Eva Pedersen
 navbar-links:
   Hjem: "index"
   Om Mig: "aboutme"
+  Læringsmål:
+    - Generelle Læringsmål: "generelobjectives"
+    - Projektkoordinering: "project-coordination"
+    - NIS2-direktivet: "nis2"
+  Læringsplan: "learningplan"
   Blog:
     - Uge 36: "week36"
     - Uge 37: "week37"
@@ -18,11 +23,6 @@ navbar-links:
     - Uge 46: "week46"
     - Uge 47: "week47"
     - Uge 48: "week48"
-  Læringsmål:
-    - Generelle Læringsmål: "generelobjectives"
-    - Projektkoordinering: "project-coordination"
-    - NIS2-direktivet: "nis2"
-  Læringsplan: "learningplan"
   Litteraturliste: "resources"
   Dokumentation:
     - Projektkoordinering: "dprojectcoordination"

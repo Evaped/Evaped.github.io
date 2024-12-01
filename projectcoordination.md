@@ -6,30 +6,30 @@ permalink: /project-coordination/
 
 ### Viden:
 
-Forstå projektkoordineringens grundlæggende principper, herunder interessentanalyse og projektets livscyklus.
+Forstå projektkoordineringens grundlæggende principper, herunder interessentanalyse, projektsfaser og anvendelsen af projekttrekanten.
 
-Have kendskab til modeller og metoder til interessentanalyse, fx SWOT og Minerva-modellen.
+Have kendskab til modeller og metoder til interessentanalyse, fx SWOT og Minerva-modellen, samt deres anvendelse i projektstyring.
 
-Forstå ressourceallokering og dens betydning for projektets succes.
+Forstå ressourceallokering og dens betydning for at balancere tid, omkostninger og kvalitet i projekter.
 
-Forstå grundlæggende teorier om kommunikation og konflikthåndtering i projekter.
+Have indsigt i menneskelige, fysiske og materielle ressourcers rolle og betydning i projekter.
 
 
 ### Færdigheder:
 
-Kunne anvende SWOT og Minerva-modellen til at udarbejde en interessentanalyse.
+Kunne anvende SWOT- og Minerva-modellen til at udarbejde og strukturere en interessentanalyse.
 
-Udarbejde en plan for ressourcefordeling i et projekt og sikre balancen mellem ressourcer og projektmål.
+Udarbejde en ressourceplan, der identificerer og balancerer menneskelige, fysiske og materielle ressourcer inden for projekttrekantens rammer.
 
-Kunne identificere og håndtere potentielle konflikter i en projektgruppe gennem passende kommunikationsteknikker.
+Kunne analysere ressourcekonflikter og foreslå løsninger, der sikrer projektets succes.
 
-Formidle projektets status og mål effektivt til interessenter via kommunikationsplaner.
+Formidle projektets status, ressourcer og mål effektivt til interessenter via kommunikationsplaner.
 
 
 ### Kompetencer:
 
-Selvstændigt kunne lede en interessentanalyse og anvende dens resultater til at planlægge projektets strategi.
+Selvstændigt kunne lede en interessentanalyse og bruge resultaterne til at udvikle handlingsorienterede strategier.
 
-Kunne prioritere ressourcer og interessenter i komplekse projektmiljøer for at opnå optimale resultater.
+Kunne anvende projekttrekanten som et styringsværktøj til at prioritere ressourcer og interessenter i komplekse projektmiljøer.
 
-Skabe en samarbejdsorienteret og konfliktfri projektgruppe gennem bevidst kommunikation og ledelse.
+Udvise evne til at balancere menneskelige, fysiske og materielle ressourcer for at opnå optimale resultater.
