@@ -31,7 +31,7 @@ Kommunikation i projekter: Introduktion til kommunikationsplaner og konfliktfore
 Case: Udarbejd en kommunikationsplan for et projekt.
 
 ### Uge 40
-Introduktion til ressourceallokering: Menneskelige, fysiske og materielle ressourcer.
+Introduktion til ressourceallokering.
 
 Konflikthåndtering: Teorier og metoder (fx Thomas-Kilmann-modellen).
 

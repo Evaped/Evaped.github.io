@@ -20,6 +20,9 @@ Projektledelse 1. udgave, Niels Vestergaard Olsen og Susanne Muusmann Lassen, 20
 
 <a href="https://teamdeck.io/da/vidensbase/hvad-er-ressourceallokering/" target="_blank">Ressourceallokering</a>
 
+<a href="https://milife.dk/teoretikere/thomas-kenneth-og-kilmann-ralph/" target="_blank">Thomas-Kilmann-modellen</a>
+
+
 
 Matriale til IT-sikkerhed (Nis2):
 

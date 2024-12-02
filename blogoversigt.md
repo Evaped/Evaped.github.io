@@ -11,7 +11,7 @@ permalink: /blogs/
 
 [Uge 39](/week39/) - Inkludere SWOT i interessent analysen og introduktion til kommunikationsplaner og konfliktforbyggelse.
 
-[Uge 40](/week40/)
+[Uge 40](/week40/) - introduktion til Ressourceallokering og Thomas-Kilmann-modellen.
 
 [Uge 41](/week41/)
 
