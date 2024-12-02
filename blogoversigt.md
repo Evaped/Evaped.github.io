@@ -3,7 +3,7 @@ layout: page
 title: Blogindlæg
 permalink: /blogs/
 ---
-[Uge 36](/week36/)
+[Uge 36](/week36/) - Introduktion af projektledelses værktøjer. 
 
 [Uge 37](/week37/)
 

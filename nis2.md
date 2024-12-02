@@ -17,7 +17,7 @@ Forstå principperne bag risikovurdering og sikkerhedsstyring under NIS2.
 
 Kunne analysere en organisations overholdelse af NIS2 ved at identificere gap mellem eksisterende praksis og direktivets krav.
 
-Udarbejde en risikovurdering med udgangspunkt i ISO 27001 og foreslå passende sikkerhedsforanstaltninger.
+Vurdere en risikovurdering med udgangspunkt i ISO 27001 og foreslå passende sikkerhedsforanstaltninger.
 
 Kunne anvende ISO-standarderne til at udvikle og implementere sikkerhedsprocedurer i en organisation.
 
@@ -25,5 +25,7 @@ Kunne anvende ISO-standarderne til at udvikle og implementere sikkerhedsprocedur
 ### Kompetencer:
 
 Selvstændigt kunne udarbejde og implementere strategier for NIS2-compliance i samarbejde med organisationens ledelse og interessenter.
+
 Kunne kombinere principperne fra NIS2 og ISO-standarderne for at styrke organisationens informationssikkerhed.
+
 Være i stand til at integrere NIS2-krav i organisationens risikostyringsstrategi og operationelle planer.

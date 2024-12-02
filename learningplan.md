@@ -11,14 +11,10 @@ Teoretisk gennemgang af interessentanalysens betydning (SWOT og Minerva-modellen
 
 Diskussion af interessenternes magt og interesse (Power-Interest grid).
 
-Identificér nøgleinteressenter i en mindre case.
-
 ### Uge 37
-Anvend SWOT og Minerva til at udarbejde en simpel interessentanalyse (case-baseret).
-
 Identifikation og kortlægning af interessenter i et givent projekt.
 
-Udarbejd en detaljeret interessentanalyse ved brug af SWOT-modellen.
+Minerva-modellen: Analyser, hvordan værdier påvirker interessenthåndtering.
 
 ### Uge 38
 Introduktion til NIS2-direktivet: Formål, baggrund og betydning for cybersikkerhed.
@@ -28,7 +24,7 @@ Introduktion til ISO 27001 og 27002: Forståelse af standardernes struktur og re
 Diskutér betydningen af NIS2 for moderne organisationers sikkerhed.
 
 ### Uge 39
-Minerva-modellen: Analyser, hvordan værdier påvirker interessenthåndtering.
+Anvend SWOT til at udarbejde en interessentanalyse (case-baseret).
 
 Kommunikation i projekter: Introduktion til kommunikationsplaner og konfliktforebyggelse.
 
@@ -55,9 +51,7 @@ Introduktion til risikovurderingsmetoder baseret på ISO 27001.
 ### Uge 44
 ISO 27002’s rolle i udvikling af sikkerhedsprocedurer.
 
-Udvikling af sikkerhedsprocedurer baseret på ISO 27002.
-
-Øvelse: Anvend ISO-standarder til at opbygge en sikkerhedsstrategi.
+Gennemgang af sikkerhedsprocedurer baseret på ISO 27002.
 
 ### Uge 45
 Gap-analyse: Identifikation af forskelle mellem eksisterende praksis og NIS2-krav.
