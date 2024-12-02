@@ -16,3 +16,4 @@ Basseret på de 3 spørgsmål har jeg forsøgt at lave en gap-analyse på vores 
 
 Når man laver en gap - analyse er det vigtigt at man danner sig et stærkt overblik over alle ressourcer man har til rådighed. Disse matrialer vil danne overblikket for hvordan der kan laves en plan (handlinger) for at nå i mål med virksomhedens udvikling.
 
+Baseret på min gap - analyse og det tidligere gennemgåede matriale har jeg opstillet en implementeringsplan for NIS2-compliance i vores projekt, den er basseret på fiktive tidsperioder, for de ting der ikke hører under vores valgfag.

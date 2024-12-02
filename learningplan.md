@@ -58,11 +58,13 @@ Gap-analyse: Identifikation af forskelle mellem eksisterende praksis og NIS2-kra
 
 Udarbejd en implementeringsplan for NIS2-compliance i en case-organisation.
 
+Strategirapport om NIS2-implementering.
+
 ### Uge 46
-Gøre projektopgaver færdige.
+Opsætte strategi for NIS2, hvor tidligere gennemarbejdede matriale er indkorporeret.
 
 ### Uge 47
-Opsamling og forberedelse af matriale til eksamen.
+Gøre projektopgaver færdige.
 
 ### Uge 48
 Opsamling og forberedelse af matriale til eksamen.
