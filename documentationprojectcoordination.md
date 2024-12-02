@@ -206,3 +206,55 @@ Udarbejd handlingsplan
 
 ## Power interest grid
 ![powerinterestgrid](../assets/img/powerinterestgrid.PNG) 
+
+## Ressourceplan
+![Ressourceplan](../assets/img/Ressourceplan.PNG) 
+
+
+## Samlet projektplan.
+# Projektmål og Tidsramme:
+
+Projektet har en fast tidsramme, og målet er at udvikle et cybersikkerhedsprogram for Norlys, som skal effektivisere processerne i IT-sikkerhedsafdelingen. Dette skal ske under hensyntagen til overholdelse af cybersikkerhedsstandarder og med en tilstrækkelig kvalitet, som kan videreudvikles af interne teams.
+
+# Interessentanalyse og Involvering
+
+Interessentanalyserne fra Minerva-segmenterne og SWOT vurdering informerer vores tilgang til, hvordan vi bedst forholder os til de forskellige interessenter:
+![Interessentanalysesamlet](../assets/img/Interessentanalysesamlet.PNG) 
+
+## Ressourceplan og Opgavefordeling
+Med udgangspunkt i de interesser og krav, der er identificeret, kan vi planlægge de specifikke opgaver i projektet, fordelt på de tilgængelige ressourcer (fire personer) og estimere den nødvendige tid og kvalitet.
+![Ressourceplansamlet](../assets/img/Ressourceplansamlet.PNG) 
+
+Tidslinje og Milepæle
+Projektet skal overholde den fastsatte tidsramme, og derfor er det vigtigt at sikre, at alle opgaver bliver afsluttet til tiden. Milepælene for projektet kan være:
+
+Planlægningsfase afsluttes: Dag 3
+Artefakter opsættes og dokumentation klar: Uge 2
+Opdateret design og testmiljø opsættes: Uge 3
+Kvalitets- og misbrugstilfælde opsat: Uge 4
+Frontend og login klart til test: Uge 6
+
+## Risikostyring
+
+For at sikre, at vi forholder os til eventuelle trusler og svagheder identificeret i SWOT-analyserne, kan vi forberede risikostyring for projektet:
+
+Risiko 1: Forsinkelse på grund af interne ressourcer.
+
+Tiltag: Opdel opgaver mere effektivt, og sørg for, at alle er klar over deres ansvar. Sørg for at holde et tæt samarbejde mellem teammedlemmerne.
+Risiko 2: Udfordringer med overholdelse af cybersikkerhedsstandarder.
+
+Tiltag: Involver regulering/myndigheder tidligt i processen og sørg for, at alle sikkerhedsfunktioner er i overensstemmelse med gældende lovgivning.
+Risiko 3: Konkurrence på markedet med lignende løsninger.
+
+Tiltag: Differentier produktet ved at fokusere på unikke funktioner og interne ressourcer, der gør det mere effektivt og omkostningseffektivt end eksterne løsninger.
+
+## Kommunikation og Opfølgning
+For at sikre, at alle interessenter er opdaterede og engagerede i projektet, skal der etableres en kommunikationsplan:
+
+Lederen af IT-sikkerhed: Ugenlige opdateringer om fremdriften og eventuelle justeringer i tidsplanen.
+
+IT-sikkerhedsafdelingen: Regelmæssig feedback og involvering i udviklingsprocessen, især test og validering.
+
+Regulering/myndigheder: Tidlig kontakt og løbende dialog for at sikre overholdelse af regler.
+
+Udviklingsteams: Endelig overlevering af programmet og dokumentation for videreudvikling.

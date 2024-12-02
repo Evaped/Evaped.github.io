@@ -59,9 +59,7 @@ Gap-analyse: Identifikation af forskelle mellem eksisterende praksis og NIS2-kra
 Udarbejd en implementeringsplan for NIS2-compliance i en case-organisation.
 
 ### Uge 46
-Kombinér interessentanalyse og NIS2-krav i en samlet strategi.
-
-Øvelse: Udarbejd en projektplan, der integrerer både projektkoordinering og NIS2-direktivet.
+Gøre projektopgaver færdige.
 
 ### Uge 47
 Opsamling og forberedelse af matriale til eksamen.

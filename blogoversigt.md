@@ -13,11 +13,11 @@ permalink: /blogs/
 
 [Uge 40](/week40/) - introduktion til Ressourceallokering og Thomas-Kilmann-modellen.
 
-[Uge 41](/week41/)
+[Uge 41](/week41/) - samlet projektplan for starten af projektet, bestående af interessent analyse, handlingsplan og ressourceplan.
 
-[Uge 42](/week42/)
+[Uge 42](/week42/) - Efterårsferie.
 
-[Uge 43](/week43/)
+[Uge 43](/week43/) - gennemgang af ISO 27001
 
 [Uge 44](/week44/)
 

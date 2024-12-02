@@ -1,5 +1,1 @@
----
-layout: page
-title: NIS 2 - Direktivet
-permalink: /dnis2/
----
+![GAP-analyse](../assets/img/GAP-analyse.PNG) 

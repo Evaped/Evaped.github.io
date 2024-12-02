@@ -30,3 +30,8 @@ Matriale til IT-sikkerhed (Nis2):
 
 <a href="https://brandogsikring.dk/sikring/resiliens/hvad-er-nis2-direktivet/?utm_source=google&utm_medium=cpc&utm_campaign=search&gad_source=1&gclid=Cj0KCQiAr7C6BhDRARIsAOUKifiOpOET8BUzyvmQQ63v7BuAAMYapdBV5TLI6Wbiinz8qT_0zgBo1fEaAq5fEALw_wcB" target="_blank">Hvad er NIS2</a>
 
+<a href="https://digst.dk/sikkerhed/informationssikkerhed-i-myndigheder/hvad-er-iso-27001/" target="_blank">ISO/IEC 27001</a>
+
+<a href="https://www.ds.dk/da/om-standarder/ledelsesstandarder/iso-27001-informationssikkerhed/iso-27002-foranstaltninger?srsltid=AfmBOoqgBzouQu_bWggdrJb1w4bo8HCV8pWgF69NmvK0iqJOG7eBo4Yl" target="_blank">ISO/IEC 27002</a>
+
+
