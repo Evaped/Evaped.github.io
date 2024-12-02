@@ -5,11 +5,11 @@ permalink: /blogs/
 ---
 [Uge 36](/week36/) - Introduktion af projektledelses værktøjer. 
 
-[Uge 37](/week37/)
+[Uge 37](/week37/) - Identifikation af interessenter og udarbejdelse af segment analyse.
 
-[Uge 38](/week38/)
+[Uge 38](/week38/) - Introduktion af NIS2 og ISO/IEC standarder.
 
-[Uge 39](/week39/)
+[Uge 39](/week39/) - Inkludere SWOT i interessent analysen og introduktion til kommunikationsplaner og konfliktforbyggelse.
 
 [Uge 40](/week40/)
 
