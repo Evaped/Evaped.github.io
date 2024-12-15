@@ -1,3 +1,9 @@
+---
+layout: page
+title: NIS2
+permalink: /dnis2/
+---
+
 ![GAP-analyse](../assets/img/GAP-analyse.PNG) 
 
 ![NIS2-tidsplan](../assets/img/NIS2-tidsplan.PNG) 
