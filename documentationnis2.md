@@ -8,7 +8,7 @@ permalink: /dnis2/
 
 ![NIS2-tidsplan](../assets/img/NIS2-tidsplan.PNG) 
 
-Risikoanalyse
+<span title="Udarbejdet af Bengisu fra mit team">[Risikoanalyse]</span>
 Falske positive/negative resultater
 
 Risiko: Et URL-sikkerhedstjek kan enten markere en sikker URL som skadelig (falsk positiv) eller undlade at opdage en skadelig URL (falsk negativ).
